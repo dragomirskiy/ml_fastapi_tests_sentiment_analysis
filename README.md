@@ -1,7 +1,8 @@
-[![Tests](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml/badge.svg)](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml)
+# Программа для определения тональности текста на основе библиотеки Hugging Face.
+Для тестирования API используется инструмент TestClient из FastAPI.
 
-# An example of ML Application with the pretrained model and test.
-
-Пример для определения тональности текста на английском языке с помощью библиотеки Hugging Face
-
-Тестирует GitHub Actions
+ПРАКТИЧЕСКОЕ ЗАДАНИЕ №2<br>по дисциплине "Программная инженерия" магистратуры "Инженерия машинного обучения" (2 семестр)<br>Уральского Федерального Университета. Работу выполнили студенты 1-курса:
+- Драгомирский Радмил, группа: РИМ-120963
+- Игорь Пластов, группа: РИМ-120963
+- Дмитрий Шалагин, группа: РИМ-120963
+- Агеев Николай Сергеевич, группа: РИМ-120963 
